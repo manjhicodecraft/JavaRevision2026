@@ -5,9 +5,6 @@ void vegitable(){
     System.out.println("tamato");
 }
 }
-class DrivedClass: BaseClass(){
-
-}
 public class JavaBasics {
 
     public static void main(){
