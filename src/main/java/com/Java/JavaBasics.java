@@ -1,13 +1,26 @@
 package com.Java;
 
-class BaseClass{
-void vegitable(){
-    System.out.println("tamato");
+// Parent class
+class Animal {
+
+    void eat() {
+        System.out.println("Animal is eating");
+    }
 }
+// Child class
+class Dog extends Animal {
+
+    void bark() {
+        System.out.println("Dog is barking");
+    }
 }
 public class JavaBasics {
 
-    public static void main(){
+    public static void main(String[] args) {
 
+        Dog d = new Dog();
+
+        d.eat();   // inherited method
+        d.bark();  // own method
     }
 }
