@@ -3,7 +3,6 @@
 Welcome to my **Java learning journey – 2026** 💻  
 This repository covers **core Java concepts, OOP, memory management, exception handling, and collections**, with hands-on practice and examples.
 
----
 
 ## 🌱 Java Basics
 
@@ -16,7 +15,6 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 ### 🔁 Java Execution Flow
 - 📝 Source Code → ⚙️ Bytecode → 🧠 JVM Execution
 
----
 
 ## 📊 Data Types
 
@@ -31,26 +29,22 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 - 📦 Arrays
 - 🏗️ Classes & Objects
 
----
 
 ## 🔄 Type Casting
 - ⬆️ Implicit Type Casting
 - ⬇️ Explicit Type Casting
 
----
 
 ## 📦 Variables
 - 🏠 Local Variables
 - 🧍 Instance Variables
 - 🧲 Static Variables
 
----
 
 ## ➕ Operators
 - ⚖️ `==` vs `.equals()`
 - 🚦 Short-circuit operators (`&&`, `||`)
 
----
 
 ## 🧱 Object-Oriented Programming (OOP)
 
@@ -69,19 +63,16 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 - 🛠️ Compile-time Polymorphism
 - ⚡ Runtime Polymorphism
 
----
 
 ## 🧩 Abstraction
 - 🧪 Abstract Classes
 - 🔌 Interfaces
 - ⚔️ Abstract Class vs Interface
 
----
 
 ## 🔑 `this` vs `super`
 - 🔍 Differences & Use Cases
 
----
 
 ## ⚙️ Important OOP Topics
 - 🔗 Constructor Chaining
@@ -91,7 +82,6 @@ This repository covers **core Java concepts, OOP, memory management, exception h
     - 🛑 final method
     - 📌 final variable
 
----
 
 ## 🔤 Strings & Wrapper Classes
 
@@ -106,7 +96,6 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 - 🔁 Autoboxing
 - 🔄 Unboxing
 
----
 
 ## 🧠 Memory Management (JVM)
 
@@ -115,7 +104,6 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 - 🧹 Garbage Collection
 - 🧲 Static Memory Behavior
 
----
 
 ## ⚠️ Exception Handling
 
@@ -125,7 +113,6 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 - 🛠️ Custom Exceptions
 - 🔁 Why `finally` Always Executes
 
----
 
 ## 📚 Collection Framework
 
@@ -149,7 +136,6 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 ### 🧮 Sorting
 - 📐 Comparable vs Comparator
 
----
 
 ## 🎯 Goals
 - 🚀 Master Java fundamentals
@@ -157,7 +143,6 @@ This repository covers **core Java concepts, OOP, memory management, exception h
 - 💼 Prepare for interviews
 - 🧑‍💻 Write clean, efficient Java code
 
----
 
 ## 📅 Year
 **2026** 📆
